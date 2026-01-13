@@ -1,0 +1,1 @@
+char *getstring(const char *prompt, ...);
